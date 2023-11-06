@@ -1,0 +1,53 @@
+2023-11-06 16:17:21,517 - function: flat_generator - args: ([[['a'], ['b', 'c']], ['d', 'e', [['f'], 'h'], False], [1, 2, None, [[[[['!']]]]], []]],) - kwargs:{} - result: <generator object flat_generator at 0x7fb1187c9a10>
+2023-11-06 16:17:21,517 - function: flat_generator - args: ([['a'], ['b', 'c']],) - kwargs:{} - result: <generator object flat_generator at 0x7fb1187c9bd0>
+2023-11-06 16:17:21,517 - function: flat_generator - args: (['a'],) - kwargs:{} - result: <generator object flat_generator at 0x7fb118672f80>
+2023-11-06 16:17:21,518 - function: flat_generator - args: ('a',) - kwargs:{} - result: <generator object flat_generator at 0x7fb118672340>
+2023-11-06 16:17:21,518 - function: flat_generator - args: (['b', 'c'],) - kwargs:{} - result: <generator object flat_generator at 0x7fb118672f80>
+2023-11-06 16:17:21,518 - function: flat_generator - args: ('b',) - kwargs:{} - result: <generator object flat_generator at 0x7fb118672340>
+2023-11-06 16:17:21,518 - function: flat_generator - args: ('c',) - kwargs:{} - result: <generator object flat_generator at 0x7fb118672340>
+2023-11-06 16:17:21,518 - function: flat_generator - args: (['d', 'e', [['f'], 'h'], False],) - kwargs:{} - result: <generator object flat_generator at 0x7fb1187c9bd0>
+2023-11-06 16:17:21,518 - function: flat_generator - args: ('d',) - kwargs:{} - result: <generator object flat_generator at 0x7fb118672f80>
+2023-11-06 16:17:21,518 - function: flat_generator - args: ('e',) - kwargs:{} - result: <generator object flat_generator at 0x7fb118672f80>
+2023-11-06 16:17:21,518 - function: flat_generator - args: ([['f'], 'h'],) - kwargs:{} - result: <generator object flat_generator at 0x7fb118672f80>
+2023-11-06 16:17:21,518 - function: flat_generator - args: (['f'],) - kwargs:{} - result: <generator object flat_generator at 0x7fb118672340>
+2023-11-06 16:17:21,518 - function: flat_generator - args: ('f',) - kwargs:{} - result: <generator object flat_generator at 0x7fb118673300>
+2023-11-06 16:17:21,518 - function: flat_generator - args: ('h',) - kwargs:{} - result: <generator object flat_generator at 0x7fb118672340>
+2023-11-06 16:17:21,518 - function: flat_generator - args: (False,) - kwargs:{} - result: <generator object flat_generator at 0x7fb118672f80>
+2023-11-06 16:17:21,518 - function: flat_generator - args: ([1, 2, None, [[[[['!']]]]], []],) - kwargs:{} - result: <generator object flat_generator at 0x7fb1187c9bd0>
+2023-11-06 16:17:21,518 - function: flat_generator - args: (1,) - kwargs:{} - result: <generator object flat_generator at 0x7fb118672f80>
+2023-11-06 16:17:21,518 - function: flat_generator - args: (2,) - kwargs:{} - result: <generator object flat_generator at 0x7fb118672f80>
+2023-11-06 16:17:21,518 - function: flat_generator - args: (None,) - kwargs:{} - result: <generator object flat_generator at 0x7fb118672f80>
+2023-11-06 16:17:21,518 - function: flat_generator - args: ([[[[['!']]]]],) - kwargs:{} - result: <generator object flat_generator at 0x7fb118672f80>
+2023-11-06 16:17:21,518 - function: flat_generator - args: ([[[['!']]]],) - kwargs:{} - result: <generator object flat_generator at 0x7fb118672340>
+2023-11-06 16:17:21,518 - function: flat_generator - args: ([[['!']]],) - kwargs:{} - result: <generator object flat_generator at 0x7fb118673300>
+2023-11-06 16:17:21,518 - function: flat_generator - args: ([['!']],) - kwargs:{} - result: <generator object flat_generator at 0x7fb118673370>
+2023-11-06 16:17:21,518 - function: flat_generator - args: (['!'],) - kwargs:{} - result: <generator object flat_generator at 0x7fb1186733e0>
+2023-11-06 16:17:21,518 - function: flat_generator - args: ('!',) - kwargs:{} - result: <generator object flat_generator at 0x7fb118673450>
+2023-11-06 16:17:21,518 - function: flat_generator - args: ([],) - kwargs:{} - result: <generator object flat_generator at 0x7fb118672f80>
+2023-11-06 16:17:21,518 - function: flat_generator - args: ([[['a'], ['b', 'c']], ['d', 'e', [['f'], 'h'], False], [1, 2, None, [[[[['!']]]]], []]],) - kwargs:{} - result: <generator object flat_generator at 0x7fb1187c9a10>
+2023-11-06 16:17:21,518 - function: flat_generator - args: ([['a'], ['b', 'c']],) - kwargs:{} - result: <generator object flat_generator at 0x7fb1187c9bd0>
+2023-11-06 16:17:21,518 - function: flat_generator - args: (['a'],) - kwargs:{} - result: <generator object flat_generator at 0x7fb118672f80>
+2023-11-06 16:17:21,518 - function: flat_generator - args: ('a',) - kwargs:{} - result: <generator object flat_generator at 0x7fb118672340>
+2023-11-06 16:17:21,518 - function: flat_generator - args: (['b', 'c'],) - kwargs:{} - result: <generator object flat_generator at 0x7fb118672f80>
+2023-11-06 16:17:21,518 - function: flat_generator - args: ('b',) - kwargs:{} - result: <generator object flat_generator at 0x7fb118672340>
+2023-11-06 16:17:21,518 - function: flat_generator - args: ('c',) - kwargs:{} - result: <generator object flat_generator at 0x7fb118672340>
+2023-11-06 16:17:21,518 - function: flat_generator - args: (['d', 'e', [['f'], 'h'], False],) - kwargs:{} - result: <generator object flat_generator at 0x7fb1187c9bd0>
+2023-11-06 16:17:21,518 - function: flat_generator - args: ('d',) - kwargs:{} - result: <generator object flat_generator at 0x7fb118672f80>
+2023-11-06 16:17:21,518 - function: flat_generator - args: ('e',) - kwargs:{} - result: <generator object flat_generator at 0x7fb118672f80>
+2023-11-06 16:17:21,518 - function: flat_generator - args: ([['f'], 'h'],) - kwargs:{} - result: <generator object flat_generator at 0x7fb118672f80>
+2023-11-06 16:17:21,518 - function: flat_generator - args: (['f'],) - kwargs:{} - result: <generator object flat_generator at 0x7fb118672340>
+2023-11-06 16:17:21,518 - function: flat_generator - args: ('f',) - kwargs:{} - result: <generator object flat_generator at 0x7fb118673300>
+2023-11-06 16:17:21,518 - function: flat_generator - args: ('h',) - kwargs:{} - result: <generator object flat_generator at 0x7fb118672340>
+2023-11-06 16:17:21,518 - function: flat_generator - args: (False,) - kwargs:{} - result: <generator object flat_generator at 0x7fb118672f80>
+2023-11-06 16:17:21,518 - function: flat_generator - args: ([1, 2, None, [[[[['!']]]]], []],) - kwargs:{} - result: <generator object flat_generator at 0x7fb1187c9bd0>
+2023-11-06 16:17:21,518 - function: flat_generator - args: (1,) - kwargs:{} - result: <generator object flat_generator at 0x7fb118672f80>
+2023-11-06 16:17:21,518 - function: flat_generator - args: (2,) - kwargs:{} - result: <generator object flat_generator at 0x7fb118672f80>
+2023-11-06 16:17:21,518 - function: flat_generator - args: (None,) - kwargs:{} - result: <generator object flat_generator at 0x7fb118672f80>
+2023-11-06 16:17:21,518 - function: flat_generator - args: ([[[[['!']]]]],) - kwargs:{} - result: <generator object flat_generator at 0x7fb118672f80>
+2023-11-06 16:17:21,518 - function: flat_generator - args: ([[[['!']]]],) - kwargs:{} - result: <generator object flat_generator at 0x7fb118672340>
+2023-11-06 16:17:21,518 - function: flat_generator - args: ([[['!']]],) - kwargs:{} - result: <generator object flat_generator at 0x7fb118673300>
+2023-11-06 16:17:21,518 - function: flat_generator - args: ([['!']],) - kwargs:{} - result: <generator object flat_generator at 0x7fb118673370>
+2023-11-06 16:17:21,518 - function: flat_generator - args: (['!'],) - kwargs:{} - result: <generator object flat_generator at 0x7fb1186733e0>
+2023-11-06 16:17:21,518 - function: flat_generator - args: ('!',) - kwargs:{} - result: <generator object flat_generator at 0x7fb118673450>
+2023-11-06 16:17:21,518 - function: flat_generator - args: ([],) - kwargs:{} - result: <generator object flat_generator at 0x7fb118672f80>
+2023-11-06 16:17:21,518 - function: flat_generator - args: ([[['a'], ['b', 'c']], ['d', 'e', [['f'], 'h'], False], [1, 2, None, [[[[['!']]]]], []]],) - kwargs:{} - result: <generator object flat_generator at 0x7fb1187c9a10>
